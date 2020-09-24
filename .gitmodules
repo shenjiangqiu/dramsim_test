@@ -1,0 +1,9 @@
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "Catch2"]
+	path = Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "DRAMsim3"]
+	path = DRAMsim3
+	url = https://github.com/shenjiangqiu/DRAMsim3.git
